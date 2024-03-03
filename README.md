@@ -18,7 +18,7 @@ http://localhost:8080/country/ecu
 http://localhost:8080/cities - Example
 
 ```
-## Códigos ISO de paises
+## Código ISO 2 & 3 - Paises
 * **https://www.datosmundial.com/codigos-de-pais.php**
 * **https://www.sanidad.gob.es/ciudadanos/saludAmbLaboral/docs/codigoIsoPai.pdf**
 
